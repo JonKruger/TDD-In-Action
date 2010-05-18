@@ -1,0 +1,10 @@
+C:\proj\tddbootcamp\BankAccount\src\BankAccount\bin\Debug\BankAccount.dll
+C:\proj\tddbootcamp\BankAccount\src\BankAccount\bin\Debug\BankAccount.pdb
+C:\proj\tddbootcamp\BankAccount\src\BankAccount\obj\Debug\ResolveAssemblyReference.cache
+C:\proj\tddbootcamp\BankAccount\src\BankAccount\obj\Debug\BankAccount.dll
+C:\proj\tddbootcamp\BankAccount\src\BankAccount\obj\Debug\BankAccount.pdb
+C:\proj\tdd-in-action\BankAccount\src\BankAccount\bin\Debug\BankAccount.dll
+C:\proj\tdd-in-action\BankAccount\src\BankAccount\bin\Debug\BankAccount.pdb
+C:\proj\tdd-in-action\BankAccount\src\BankAccount\obj\Debug\ResolveAssemblyReference.cache
+C:\proj\tdd-in-action\BankAccount\src\BankAccount\obj\Debug\BankAccount.dll
+C:\proj\tdd-in-action\BankAccount\src\BankAccount\obj\Debug\BankAccount.pdb

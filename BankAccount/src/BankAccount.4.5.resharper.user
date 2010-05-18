@@ -1,0 +1,126 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:Specification.cs" caret="0" fromTop="0" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:WithdrawalResult.cs" caret="291" fromTop="8" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="483" fromTop="6" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="7437" fromTop="268" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="1168" fromTop="27" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="1676" fromTop="30" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="1168" fromTop="18" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:WithdrawalResult.cs" caret="374" fromTop="6" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="1155" fromTop="19" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="4949" fromTop="174" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="5321" fromTop="188" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="5475" fromTop="188" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="5672" fromTop="20" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="586" fromTop="12" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="5826" fromTop="31" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="6032" fromTop="38" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="6359" fromTop="43" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="6172" fromTop="38" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="6531" fromTop="41" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="2119" fromTop="45" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="683" fromTop="28" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="6954" fromTop="156" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="7212" fromTop="167" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="7048" fromTop="161" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="7400" fromTop="173" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="1758" fromTop="36" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="7633" fromTop="31" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="8059" fromTop="43" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="7894" fromTop="30" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="8293" fromTop="42" />
+      <File id="E0CD898E-2BDE-4A36-9E44-C6237030253A/f:BankAccountTests.cs" caret="8225" fromTop="42" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:WithdrawalResult.cs" caret="291" fromTop="8" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="914" fromTop="12" />
+      <File id="0C0A17E1-8848-4832-AE0C-B6F1CE68C71F/f:Account.cs" caret="483" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <UseShadowCopy>False</UseShadowCopy>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Test" priority="4" />
+      <Item value="public" priority="13" />
+      <Item value="void" priority="8" />
+      <Item value="Specification" priority="6" />
+      <Item value="override" priority="7" />
+      <Item value="var" priority="2" />
+      <Item value="new" priority="12" />
+      <Item value="account" priority="0" />
+      <Item value="Account" priority="5" />
+      <Item value="_account" priority="22" />
+      <Item value="decimal" priority="1" />
+      <Item value="_result" priority="6" />
+      <Item value="bool" priority="8" />
+      <Item value="return" priority="11" />
+      <Item value="null" priority="0" />
+      <Item value="false" priority="3" />
+      <Item value="private" priority="1" />
+      <Item value="_balance" priority="5" />
+      <Item value="amount" priority="4" />
+      <Item value="WithdrawalResult" priority="2" />
+      <Item value="true" priority="3" />
+      <Item value="TestFixture" priority="4" />
+      <Item value="class" priority="4" />
+      <Item value="if" priority="4" />
+      <Item value="annualPercentageRate" priority="0" />
+      <Item value="bec" priority="1" />
+      <Item value="CloseAccountResult" priority="1" />
+      <Item value="_isClosed" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="AccountClosed" priority="0" />
+      <Item value="AccountNotClosedBecauseAccountIsNotEmpty" priority="0" />
+      <Item value="WithdrawalFailedBecauseOfInsufficientFunds" priority="0" />
+      <Item value="WithdrawalSuccessful" priority="0" />
+      <Item value="DepositResult" priority="2" />
+      <Item value="IsClosed" priority="0" />
+      <Item value="DepositFailedBecauseAccountIsClosed" priority="0" />
+      <Item value="WithdrawalFailedBecauseAccountIsClosed" priority="0" />
+      <Item value="est" priority="0" />
+      <Item value="WithdrawalFailedBecauseAmountWasNegative" priority="0" />
+      <Item value="DepositFailedBecauseAmountWasNegative" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BankAccount.Tests.Account">
+      <Item value="Deposit" priority="1" />
+      <Item value="Balance" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BankAccount.Tests.WithdrawalResult">
+      <Item value="WithdrawalSuccessful" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ShouldBeFalse" priority="1" />
+      <Item value="ShouldBeTrue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ShouldEqual" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BankAccount.Account">
+      <Item value="Deposit" priority="4" />
+      <Item value="Close" priority="2" />
+      <Item value="Balance" priority="3" />
+      <Item value="Withdraw" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BankAccount.CloseAccountResult">
+      <Item value="AccountClosed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BankAccount.DepositResult">
+      <Item value="DepositFailedBecauseAccountIsClosed" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
