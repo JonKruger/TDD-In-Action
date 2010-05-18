@@ -1,0 +1,15 @@
+Feature: 		Deposit 
+Description:	User should be able to deposit money into a bank account.
+
+ 
+Feature:		Withdraw 
+Description:	User should be able to withdraw money from a bank account along as there is enough money in the bank account for the withdrawal.
+
+ 
+Feature:		Deposit Annual Interest
+Description:	Multiply the account balance by the annual percentage rate and deposit that amount into the bank account.
+
+ 
+Feature:		Close Account
+Description:	The account balance must be 0 in order to close the account.  Once the account is closed, money cannot be deposited or withdrawn from the account.
+
